@@ -2,8 +2,7 @@
 public class Waterfall {
 
 	public static void main(String[] args) {
-		// checkin2
-
+		System.out.println("checkin 2");
 	}
 
 }
